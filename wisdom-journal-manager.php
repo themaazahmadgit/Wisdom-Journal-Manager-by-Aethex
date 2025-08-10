@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Wisdom Journal Manager
-Plugin URI: https://aethex.online
+Plugin URI: http://wjm.aethex.online
 Description: World's First Affordable Journal Manager
 Version: 1.0.0
 Author: Maaz Ahmad, Shariq Hashme
-Author URI: https://aethex.online
+Author URI: http://aethex.online
 Company: Aethex
 Text Domain: wisdom-journal-manager
 Domain Path: /languages

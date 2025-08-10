@@ -18,7 +18,6 @@ Install in Minutes
 1) WordPress Admin -> Plugins -> Add New -> Upload Plugin
 2) Select the plugin ZIP and click Install
 3) Activate the plugin
-4) no
 
 Upgrade Without Stress
 - Backup database and files
